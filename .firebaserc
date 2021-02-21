@@ -1,0 +1,39 @@
+{
+  "targets": {
+    "react30-40e5a": {
+      "hosting": {
+        "travelgram": [
+          "react30-40e5a"
+        ]
+      }
+    },
+    "angular-1-ee38a": {
+      "hosting": {
+        "travelgram": [
+          "angular-1-ee38a"
+        ]
+      }
+    },
+    "angular-2-52162": {
+      "hosting": {
+        "travelgram": [
+          "angular-2-52162"
+        ]
+      }
+    },
+    "react-31-eb200": {
+      "hosting": {
+        "travelgram": [
+          "react-31-eb200"
+        ]
+      }
+    },
+    "angular-3-8ec14": {
+      "hosting": {
+        "travelgram": [
+          "angular-3-8ec14"
+        ]
+      }
+    }
+  }
+}
